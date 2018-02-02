@@ -8,6 +8,7 @@
 /doc
 /.fetch
 erl_crash.dump
+_build
 *.ez
 *.beam
 
