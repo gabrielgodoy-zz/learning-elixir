@@ -54,7 +54,7 @@ defmodule Hangman.Game do
   - _guess: Letra que jogador tenta no jogo
   """
   def make_move(game = %{game_state: state}, _guess) when state in [:won, :lost] do
-    game # tally é o placar do jogo
+    game
   end
 
   @doc """

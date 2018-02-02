@@ -1,6 +1,6 @@
 defmodule TextClient.Prompter do
   @moduledoc """
-    
+    Pede por input  do usuário e dá um feedback sobre esse input
   """
 
   @doc """

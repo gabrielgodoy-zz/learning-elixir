@@ -1,6 +1,7 @@
 defmodule TextClient.Mover do
   @moduledoc """
-    
+    Módulo responsável por interagir com o app Hangman
+    e realizar uma jogada no jogo
   """
 
   alias TextClient.State

@@ -1,6 +1,6 @@
 defmodule TextClient.Player do
   @moduledoc """
-    
+    Ações do jogador durante o jogo da forca
   """
 
   alias TextClient.{Mover, Prompter, State, Summary}
